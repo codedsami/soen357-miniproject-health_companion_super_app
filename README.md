@@ -1,7 +1,9 @@
 ![remindmeds-high-resolution-logocrop-removebg-preview](https://github.com/user-attachments/assets/e0db21eb-8627-4637-a797-dd07a3885df2)
 
 RemindMeds is a conceptual health companion super app created for soen 357 class. This mini proejct explores my knowlegde in user interface design.
+
 This is how this case study was completed:
+
 User Survey -> Persona Creation -> User Journey Map -> User Flow Diagram -> Storyboard -> Sketches -> Wireframes -> Prototype
 
 
